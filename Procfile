@@ -1,1 +1,1 @@
-web: gunicorn ajidehabeeb.io.wsgi
+web: gunicorn ajidehabeeb.wsgi
