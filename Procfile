@@ -1,1 +1,1 @@
-web: gunicorn pamundaa.wsgi
+web: gunicorn ajidehabeeb.io.wsgi
